@@ -1,13 +1,3 @@
-/**
- * Copyright (c) 2014-2016, CKSource - Frederico Knabben. All rights reserved.
- * Licensed under the terms of the MIT License (see LICENSE.md).
- *
- * The abbr plugin dialog window definition.
- *
- * Created out of the CKEditor Plugin SDK:
- * http://docs.ckeditor.com/#!/guide/plugin_sdk_sample_1
- */
-
 // Our dialog definition.
 CKEDITOR.dialog.add('iconetDialog', function (editor){
 			return {
